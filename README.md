@@ -6,8 +6,8 @@ Given a testing image of its raw size, by adjusting the target resolution, the n
 ### Performance on tinyface dataset
 
 Target resolution  | r1 | r5 | r10 | r20 | mAP 
-------------- | -------------
-Target=16  | 0.6362|0.7054|0.6027|0.7569|0.5617
+------------------ |--- |--- | --- | --- | ---
+Target=16  | 0.6362 | 0.7054 | 0.6027 | 0.7569 | 0.5617
 Target=32  | 0.6566|0.7325|0.7604|0.7851|0.5867
 Target=64  | **0.6617**|0.7387|0.7690|0.7907|0.5947
 Target=128  | 0.6537|0.7352|0.7620|0.7856|0.5903
